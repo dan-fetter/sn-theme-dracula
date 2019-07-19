@@ -6,15 +6,14 @@
   "version": "0.0.1",
   "description": "A Dracula inspired theme for Standard Notes",
   "url": "http://localhost:8001/dist/dist.css",
-  "download_url": "https://github.com/cameronldn/sn-theme-dracula/archive/master.zip",
   "latest_url": "http://localhost:8001/sn-dracula.json",
   "marketing_url": "https://github.com/cameronldn/sn-theme-dracula",
   "thumbnail_url": "https://github.com/cameronldn/sn-theme-dracula/master/thumbnail.png",
   "dock_icon": {
       "type": "circle",
-      "background_color": "#6272a4",
-      "foreground_color": "#6272a4",
-      "border_color": "#6272a4"
+      "background_color": "#8be9fd",
+      "foreground_color": "#8be9fd",
+      "border_color": "#8be9fd"
     },
     "statusBar": "dark-content"
 }
