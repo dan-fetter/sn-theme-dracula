@@ -46,6 +46,35 @@
   color: var(--foreground-color-1);
 }
 
+:root .cm-variable, :root .cm-variable-2 {
+  color: var(--foreground-color-1) !important;
+}
+
+:root .cm-atom, :root .cm-number {
+  color: var(--foreground-color-2) !important;
+}
+
+:root .cm-property, :root .cm-variable-3 {
+  color: var(--foreground-color-3) !important;
+}
+
+:root .cm-keyword, .cm-operator, .cm-tag {
+  color: #ff79c6 !important;
+}
+
+:root .cm-def  {
+  color: var(--sn-stylekit-success-color) !important;
+}
+
+:root .cm-builtin, :root .cm-qualifier {
+  color: var(--sn-stylekit-success-color) !important;
+}
+
+:root .cm-comment {
+  color: #6272a4 !important;
+}
+
+
 
 
 /*# sourceMappingURL=dist.css.map */
