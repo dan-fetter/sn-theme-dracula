@@ -8,7 +8,7 @@
   "url": "http://localhost:8001/dist/dist.css",
   "latest_url": "http://localhost:8001/sn-dracula-local.json",
   "marketing_url": "https://github.com/cameronldn/sn-theme-dracula",
-  "thumbnail_url": "https://github.com/cameronldn/sn-theme-dracula/master/thumbnail.png",
+  "thumbnail_url": "https://github.com/cameronldn/sn-theme-dracula/master/preview.png",
   "dock_icon": {
       "type": "circle",
       "background_color": "#8be9fd",
