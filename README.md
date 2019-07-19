@@ -1,4 +1,4 @@
 # Dracula Theme for Standard Notes
 
 
-![Preview](preview.png)
+![Preview](https://raw.githubusercontent.com/cameronldn/sn-theme-dracula/master/preview.png)
