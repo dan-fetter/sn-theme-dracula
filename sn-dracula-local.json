@@ -6,7 +6,7 @@
   "version": "0.0.1",
   "description": "A Dracula inspired theme for Standard Notes",
   "url": "http://localhost:8001/dist/dist.css",
-  "latest_url": "http://localhost:8001/sn-dracula.json",
+  "latest_url": "http://localhost:8001/sn-dracula-local.json",
   "marketing_url": "https://github.com/cameronldn/sn-theme-dracula",
   "thumbnail_url": "https://github.com/cameronldn/sn-theme-dracula/master/thumbnail.png",
   "dock_icon": {
