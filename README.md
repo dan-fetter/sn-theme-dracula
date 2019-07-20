@@ -1,6 +1,10 @@
-# Dracula Standard Notes Theme
+# Dracula for [Standard Notes](https://standardnotes.org)
 
-A [Dracula](https://draculatheme.com) inspired theme for [Standard Notes](https://standardnotes.org), based off the official SN theme [Autobiography](https://github.com/sn-extensions/autobiography-theme).
+A [Dracula](https://draculatheme.com) inspired theme for [Standard Notes](https://standardnotes.org).
+
+![Preview](https://raw.githubusercontent.com/cameronldn/sn-theme-dracula/master/preview.png)
+
+<br>
 
 ## Installation
 
@@ -12,7 +16,3 @@ A [Dracula](https://draculatheme.com) inspired theme for [Standard Notes](https:
 3. Click 'Install'
 
 4. Activate the theme!
-
-<br>
-
-![Preview](https://raw.githubusercontent.com/cameronldn/sn-theme-dracula/master/preview.png)
