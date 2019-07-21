@@ -8,10 +8,10 @@ A [Dracula](https://draculatheme.com) inspired theme for [Standard Notes](https:
 
 ## Installation
 
-1. Open the Standard Notes Web or Desktop App
+1. Open the Standard Notes [Web](https://app.standardnotes.org/) or Desktop App
 
 2. In the Extensions menu, click 'Import Extension' and paste:
-`https://listed.standardnotes.org/sbu0trdfI5`
+`https://listed.standardnotes.org/Uq5C8jZbAZ`
 
 3. Click 'Install'
 
