@@ -59,7 +59,7 @@
   color: #6272a4 !important; 
   background: #21222c !important;
 }
-.CodeMirror-code .cm-comment.CodeMirror-selectedtext {
+:root .CodeMirror-code .cm-comment.CodeMirror-selectedtext {
   color: #6272a4 !important; 
   background: #343746 !important;
 }
