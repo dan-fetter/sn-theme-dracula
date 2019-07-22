@@ -137,6 +137,7 @@
   color: #8be9fd !important;
 }
 
+span.hljs-tag,
 .hljs-keyword {
   color: #ff79c6 !important;
 }
@@ -146,15 +147,15 @@
   color: #f8f8f2 !important;
 }
 
-.hljs-title {
+.hljs-title,
+.hljs-name,
+.hljs-attr  {
   color: #50fa7b !important;
 }
 
 .hljs-string,
 .hljs-meta,
-.hljs-name,
 .hljs-type,
-.hljs-attr,
 .hljs-symbol,
 .hljs-bullet,
 .hljs-addition,
