@@ -59,7 +59,7 @@
   color: #6272a4 !important; 
   background: #21222c !important;
 }
-:root .CodeMirror-code .cm-comment.CodeMirror-selectedtext {
+.CodeMirror-code .cm-comment.CodeMirror-selectedtext {
   color: #6272a4 !important; 
   background: #343746 !important;
 }
@@ -110,13 +110,83 @@
 :root span.cm-tag { color: #ff79c6 !important; }
 :root span.cm-attribute { color: #50fa7b !important; }
 :root span.cm-qualifier { color: #50fa7b !important; }
-:root span.cm-property { color: #66d9ef !important; }
+:root span.cm-property { color: #8be9fd !important; }
 :root span.cm-property.CodeMirror-selectedtext { 
-  color: #66d9ef !important;
+  color: #8be9fd !important;
   background: #343746 !important; 
 }
 :root span.cm-builtin { color: #50fa7b !important; }
 :root span.cm-builtin.CodeMirror-selectedtext { 
   color: #50fa7b !important;
   background: #343746 !important; 
+}
+
+/* HIGHLIGHT.JS SYNTAX HIGHLIGHTING */
+/* Source: https://github.com/dracula/highlightjs/blob/master/dracula.css */
+.hljs {
+  display: block !important;
+  overflow-x: auto !important;
+  padding: 0.5em !important;
+  background: #343746 !important;
+}
+
+.hljs-built_in,
+.hljs-selector-tag,
+.hljs-section,
+.hljs-link {
+  color: #8be9fd !important;
+}
+
+.hljs-keyword {
+  color: #ff79c6 !important;
+}
+
+.hljs,
+.hljs-subst {
+  color: #f8f8f2 !important;
+}
+
+.hljs-title {
+  color: #50fa7b !important;
+}
+
+.hljs-string,
+.hljs-meta,
+.hljs-name,
+.hljs-type,
+.hljs-attr,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition,
+.hljs-variable,
+.hljs-template-tag,
+.hljs-template-variable {
+  color: #f1fa8c !important;
+}
+
+.hljs-comment,
+.hljs-quote,
+.hljs-deletion {
+  color: #6272a4 !important;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-literal,
+.hljs-title,
+.hljs-section,
+.hljs-doctag,
+.hljs-type,
+.hljs-name,
+.hljs-strong {
+  font-weight: bold !important;
+}
+
+.hljs-literal,
+.hljs-number {
+  color: #bd93f9 !important;
+}
+
+.hljs-emphasis {
+  font-style: italic !important;
 }

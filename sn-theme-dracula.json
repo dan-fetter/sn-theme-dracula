@@ -3,10 +3,10 @@
   "name": "Dracula",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A Dracula inspired theme for Standard Notes",
   "url": "http://localhost:8001/dist/dist.css",
-  "latest_url": "http://localhost:8001/sn-dracula-local.json",
+  "latest_url": "http://localhost:8001/sn-theme-dracula.json",
   "marketing_url": "https://github.com/cameronldn/sn-theme-dracula",
   "thumbnail_url": "https://github.com/cameronldn/sn-theme-dracula/master/preview.png",
   "dock_icon": {
