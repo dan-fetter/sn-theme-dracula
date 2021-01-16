@@ -1,6 +1,6 @@
 {
-  "name": "sn-theme-dracula",
-  "version": "1.2.1",
+  "name": "sn-theme-dracula-df",
+  "version": "0.0.1",
   "main": "dist/dist.css",
   "devDependencies": {
     "grunt": "^1.0.1",
@@ -13,6 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/cameronldn/sn-theme-dracula.git"
+    "url": "git://github.com/dan-fetter/sn-theme-dracula.git"
   }
 }
